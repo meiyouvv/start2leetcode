@@ -5,7 +5,7 @@
 
 解题用JavaScript来做，后续可能会用到TypeScript。
 
-[LeetCode链接]: https://leetcode-cn.com/problemset/all/?listId=2ckc81c&amp;page=1
+LeetCode链接:[LeetCode链接](https://leetcode-cn.com/problemset/all/?listId=2ckc81c&amp;page=1)**
 
 ## 1-50：
 
